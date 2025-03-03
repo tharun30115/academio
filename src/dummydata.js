@@ -55,8 +55,8 @@ export const homeAbout = [
               totalTime: "50 lectures (190 hrs)",
             },
           ],
-          priceAll: "$100 All Course",
-          pricePer: "$15 per month",
+          priceAll: "₹10000 All Course",
+          pricePer: "₹1500 per month",
         },
         {
           id: 2,
@@ -69,8 +69,8 @@ export const homeAbout = [
               totalTime: "30 lectures (125 hrs)",
             },
           ],
-          priceAll: "$200 All Course",
-          pricePer: "$25 per month",
+          priceAll: "₹20000 All Course",
+          pricePer: "₹2500 per month",
         },
         {
           id: 3,
@@ -83,8 +83,8 @@ export const homeAbout = [
               totalTime: "50 lectures (50 hrs)",
             },
           ],
-          priceAll: "$50 All Course",
-          pricePer: "$5 per month",
+          priceAll: "₹50000 All Course",
+          pricePer: "₹5000 per month",
         },
         {
           id: 4,
@@ -97,8 +97,8 @@ export const homeAbout = [
               totalTime: "20 lectures (20 hrs)",
             },
           ],
-          priceAll: "$30 All Course",
-          pricePer: "$3 per month",
+          priceAll: "₹30000 All Course",
+          pricePer: "₹3000 per month",
         },
         {
           id: 5,
@@ -111,8 +111,8 @@ export const homeAbout = [
               totalTime: "100 lectures (150 hrs)",
             },
           ],
-          priceAll: "$300 All Course",
-          pricePer: "$30 per month",
+          priceAll: "₹30000 All Course",
+          pricePer: "₹3000 per month",
         },
         {
           id: 6,
@@ -125,8 +125,8 @@ export const homeAbout = [
               totalTime: "200 lectures (300 hrs)",
             },
           ],
-          priceAll: "$500 All Course",
-          pricePer: "$80 per month",
+          priceAll: "₹50000 All Course",
+          pricePer: "₹8000 per month",
         },
         {
           id: 7,
@@ -139,8 +139,8 @@ export const homeAbout = [
               totalTime: "20 lectures (50 hrs)",
             },
           ],
-          priceAll: "$20 All Course",
-          pricePer: "$2 per month",
+          priceAll: "₹20000 All Course",
+          pricePer: "₹2000 per month",
         },
         {
           id: 8,
@@ -153,8 +153,8 @@ export const homeAbout = [
               totalTime: "80 lectures (200 hrs)",
             },
           ],
-          priceAll: "$200 All Course",
-          pricePer: "$40 per month",
+          priceAll: "₹20000 All Course",
+          pricePer: "₹4000 per month",
         },
         {
           id: 9,
@@ -167,8 +167,8 @@ export const homeAbout = [
               totalTime: "50 lectures (50 hrs)",
             },
           ],
-          priceAll: "$20 All Course",
-          pricePer: "$3 per month",
+          priceAll: "₹20000 All Course",
+          pricePer: "₹3000 per month",
         },
       ]
       export const online = [
