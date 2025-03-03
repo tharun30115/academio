@@ -339,7 +339,7 @@ export const homeAbout = [
         {
           id: 1,
           type: "admin",
-          date: "JAN. 18, 2021",
+          date: "FEB. 18, 2025",
           com: "3 COMMENTS ",
           title: "Build your Dream Software & Engineering Career",
           desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
@@ -348,7 +348,7 @@ export const homeAbout = [
         {
           id: 2,
           type: "admin",
-          date: "API. 25, 2022",
+          date: "JAN. 25, 2025",
           com: "5 COMMENTS ",
           title: "Build your Dream Software & Engineering Career",
           desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
@@ -357,7 +357,7 @@ export const homeAbout = [
         {
           id: 3,
           type: "user",
-          date: "MAY. 15, 2022",
+          date: "MAR. 15, 2025",
           com: "10 COMMENTS ",
           title: "Build your Dream Software & Engineering Career",
           desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
@@ -366,7 +366,7 @@ export const homeAbout = [
         {
           id: 4,
           type: "admin",
-          date: "JAN. 02, 2022",
+          date: "JAN. 02, 2025",
           com: "3 COMMENTS ",
           title: "Build your Dream Software & Engineering Career",
           desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
@@ -375,7 +375,7 @@ export const homeAbout = [
         {
           id: 5,
           type: "admin",
-          date: "DEC. 14, 2022",
+          date: "DEC. 14, 2024",
           com: "3 COMMENTS ",
           title: "Build your Dream Software & Engineering Career",
           desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
@@ -384,7 +384,7 @@ export const homeAbout = [
         {
           id: 6,
           type: "user",
-          date: "JAN. 18, 2021",
+          date: "JAN. 18, 2025",
           com: "12 COMMENTS ",
           title: "Build your Dream Software & Engineering Career",
           desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
